@@ -17,7 +17,7 @@ function SettingsScreen() {
       <Text>Settings!</Text>
       <Button
           title="Press me"
-          onPress={() => Alert.alert('Simple Button pressed')}
+          onPress={() => Alert.alert('wtf?')}
         />
     </View>
   );
