@@ -1,0 +1,6 @@
+module Pods_dataPage {
+  umbrella header "Pods-dataPage-umbrella.h"
+
+  export *
+  module * { export * }
+}

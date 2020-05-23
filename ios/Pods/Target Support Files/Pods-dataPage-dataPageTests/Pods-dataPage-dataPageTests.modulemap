@@ -1,0 +1,6 @@
+module Pods_dataPage_dataPageTests {
+  umbrella header "Pods-dataPage-dataPageTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
